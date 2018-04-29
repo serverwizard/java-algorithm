@@ -1,5 +1,9 @@
-package com.company;
+package dp;
 
+/**
+ * 가장 큰 정사각형 찾기 문제
+ *
+ */
 public class Main {
 
     public static void main(String[] args) {
